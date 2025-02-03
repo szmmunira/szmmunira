@@ -7,7 +7,7 @@ About Me :
 🤝 I’m looking to collaborate on SQL & Power BI Dashboards <br><br>
 🌱 I’m currently learning Cloud Databases , Python & visualisation tools. <br><br>
 💬 Ask me about Data Visualization & Business Intelligence<br><br>
-⚡ Fun fact: I love solving real-world problems with data!<br><br>
+⚡ Fun fact: I also work as a freelance voice artist for fun!<br><br>
 
 🎓 Education :
 
